@@ -1,0 +1,5 @@
+[submodule "client"]
+    path = client
+    url = [URL to the submodule repository]
+
+
