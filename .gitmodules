@@ -1,5 +1,5 @@
 [submodule "client"]
     path = client
-    url = [/]
+    url = https://github.com/Nolanjue/client.git
 
 
